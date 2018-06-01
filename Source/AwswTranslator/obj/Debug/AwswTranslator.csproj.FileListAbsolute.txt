@@ -1,0 +1,12 @@
+C:\Users\wolf_\source\repos\AwswTranslator\AwswTranslator\bin\Debug\AwswTranslator.exe.config
+C:\Users\wolf_\source\repos\AwswTranslator\AwswTranslator\bin\Debug\AwswTranslator.exe
+C:\Users\wolf_\source\repos\AwswTranslator\AwswTranslator\bin\Debug\AwswTranslator.pdb
+C:\Users\wolf_\source\repos\AwswTranslator\AwswTranslator\obj\Debug\AwswTranslator.csprojResolveAssemblyReference.cache
+C:\Users\wolf_\source\repos\AwswTranslator\AwswTranslator\obj\Debug\AwswTranslator.Form1.resources
+C:\Users\wolf_\source\repos\AwswTranslator\AwswTranslator\obj\Debug\AwswTranslator.Properties.Resources.resources
+C:\Users\wolf_\source\repos\AwswTranslator\AwswTranslator\obj\Debug\AwswTranslator.csproj.GenerateResource.Cache
+C:\Users\wolf_\source\repos\AwswTranslator\AwswTranslator\obj\Debug\AwswTranslator.csproj.CoreCompileInputs.cache
+C:\Users\wolf_\source\repos\AwswTranslator\AwswTranslator\obj\Debug\AwswTranslator.exe
+C:\Users\wolf_\source\repos\AwswTranslator\AwswTranslator\obj\Debug\AwswTranslator.pdb
+C:\Users\wolf_\source\repos\AwswTranslator\AwswTranslator\bin\Debug\System.Net.Http.dll
+C:\Users\wolf_\source\repos\AwswTranslator\AwswTranslator\obj\Debug\AwswTranslator.SettingsForm.resources
